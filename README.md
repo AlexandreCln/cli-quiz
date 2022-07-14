@@ -1,6 +1,6 @@
 ## CLI Quiz
 
-### Learning project involving Go channels and concurrency concepts.
+Learning project involving Go channels and concurrency concepts.
 
 ---
 
